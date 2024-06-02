@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mln030
 - 👀 I’m interested in Python, Crypto
 - 🌱 I’m currently learning python, php :) 
-- 💞️ I’m looking to collaborate on Crypto DeFi
+
 - 📫 How to reach me mln030@yandex.com
 
 <!---
