@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mln030
-- 👀 I’m interested in Python, Crypto
-- 🌱 I’m currently learning python, php :) 
-
-- 📫 How to reach me mln030@yandex.com
+- 👋 Hi,
+- 👀 I’m interested in some basic coding while not sleep
+- 🌱 I’m currently learning how to survive :) 
 
 <!---
 mln030/mln030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
